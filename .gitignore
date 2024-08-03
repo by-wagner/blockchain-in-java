@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Blockchain with Java/*
+!/Blockchain with Java/task/
+/Blockchain with Java/task/*
+!/Blockchain with Java/task/src
+
+# Project exclude paths
+/Topics/Infinite streams/Theory/out/
+/Topics/Infinite streams/Theory/out/production/classes/
+/Topics/Instant/Theory/out/
+/Topics/Instant/Theory/out/production/classes/
+/Topics/Taking elements/Theory/out/
+/Topics/Taking elements/Theory/out/production/classes/
